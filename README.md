@@ -1,2 +1,2 @@
 # Udacity-Deep-Learning-Nanodegree
-Repository for projects from deep learning nanodegree program
+Repository for projects from my deep learning nanodegree program
